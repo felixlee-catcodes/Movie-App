@@ -15,3 +15,7 @@ nav {
   display: flex;
   justify-content: space-around;
 }
+
+#profile-pic {
+  max-height: 2.5em;
+}
