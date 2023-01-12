@@ -18,6 +18,10 @@ const List = conn.define("list", {
     type: UUID,
     allowNull: false,
   },
+  //   movieId: {
+  //     type: UUID,
+  //     // allowNull: false,
+  //   },
 });
 
 module.exports = List;
